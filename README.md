@@ -37,3 +37,18 @@ Simulate intelligent truck movement in a city grid, picking up and delivering pa
 2. The truck navigates from `T` to pickup `P` locations, then to `D`
 3. It evaluates all possible next moves
 4. The path is selected based on the chosen algorithm (UCS or A*)
+
+
+## 🛻 Examples
+
+> grid 1:
+
+![Screenshot_2025-07-09-19-27-15-830_com google android apps docs](https://github.com/user-attachments/assets/338a7e0b-ec56-4b81-a58e-acd95206590f)
+
+> grid 2:
+
+![Screenshot_2025-07-09-19-27-41-032_com google android apps docs](https://github.com/user-attachments/assets/75b9b4b9-535a-48d5-932f-3a1cfd7078b3)
+
+> grid 3:
+
+![Screenshot_2025-07-09-19-28-04-847_com google android apps docs](https://github.com/user-attachments/assets/1e685fce-e811-4919-ae9d-0dcda9a2cf94)
